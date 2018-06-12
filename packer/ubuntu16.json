@@ -2,7 +2,7 @@
 	"builders":[
 	 {
 	  "type": "googlecompute",
-	  "project_id": "atomic-optics-205814",
+	  "project_id": "infra-206514",
 	  "image_name": "reddit-base-{{timestamp}}",
 	  "source_image": "ubuntu-1604-xenial-v20180522",
 	  "zone": "europe-west1-b",
